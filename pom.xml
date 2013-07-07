@@ -8,7 +8,7 @@
 	</parent>
 	<artifactId>container</artifactId>
 	<scm>
-		<developerConnection>scm:git:ssh://git@github.com:timgesekus/osgi-container.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com/timgesekus/osgi-container.git</developerConnection>
 	  <tag>parent-1.0.0</tag>
   </scm>
 	<packaging>jar</packaging>
